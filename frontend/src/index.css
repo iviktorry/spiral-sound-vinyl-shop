@@ -1,1 +1,6 @@
 @import "tailwindcss";
+
+@theme {
+  --font-default: "Poppins", sans-serif;
+  --font-heading: "Plaster", system-ui;
+}
